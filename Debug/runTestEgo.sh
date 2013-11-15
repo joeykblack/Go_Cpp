@@ -1,0 +1,1 @@
+./twogtp.py --black '../../libego/bin/libego.sh' --white './Go' --size 9 --komi 7.5 --verbose 2
